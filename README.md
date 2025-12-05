@@ -2,6 +2,8 @@
 
 "Wake up, Neo..."
 
+<img width="1201" height="730" alt="image" src="https://github.com/user-attachments/assets/d4d15b68-9d5a-41b7-82a8-733c5d0d73a8" />
+
 NetMatrix Monitor is a Python-based network intelligence tool that transforms standard system monitoring into a high-tech, sci-fi "System Overwatch" experience. It provides real-time visualization of all active network connections, process associations, and geolocation data, wrapped in a sleek, "Matrix-style" terminal interface.
 
 ⚡ Features
