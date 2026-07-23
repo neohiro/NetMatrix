@@ -78,3 +78,8 @@ This tool allows for the termination of system processes. While safeguards are i
 📄 License
 
 Distributed under the MIT License. See LICENSE for more information.
+
+## 📦 Installation
+
+You can download the compiled standalone release for your operating system (Windows, macOS, or Linux) directly from the **[Releases](../../releases)** tab. No Python installation is required! Just download the .zip for your OS, extract, and run.
+
