@@ -45,7 +45,7 @@ jobs:
         if: matrix.os == 'windows-latest'
         run: |
           pyinstaller --noconfirm --onedir --windowed NetMatrix.PY
-          Compress-Archive -Path "dist\NetMatrix\*" -DestinationPath "NetMatrix-Windows.zip" -Force
+          Compress-Archive -Path "dist\NetMatrix" -DestinationPath "NetMatrix-Windows.zip" -Force
 
       - name: Build macOS Executable
         if: matrix.os == 'macos-latest'
